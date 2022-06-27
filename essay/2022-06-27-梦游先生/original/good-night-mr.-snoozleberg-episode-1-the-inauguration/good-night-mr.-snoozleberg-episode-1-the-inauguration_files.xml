@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Good_Night_Mr.Snoozleberg-Episode_1：The_Inauguration.swf" source="original">
+    <mtime>1610251105</mtime>
+    <size>654577</size>
+    <md5>121885848089e1eff09a48aff02afd3a</md5>
+    <crc32>42071c91</crc32>
+    <sha1>f157df09a536d52abbdd01c1803a87c6e70d8b7f</sha1>
+    <format>Shockwave Flash</format>
+    <length>6.66</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Good_Night_Mr.Snoozleberg-Episode_1：The_Inauguration_screenshot.png" source="original">
+    <mtime>1610251128</mtime>
+    <size>150564</size>
+    <md5>9e2cc86f0221ba34bca985ac7b46b36b</md5>
+    <crc32>7fb994b4</crc32>
+    <sha1>1b1ea700f631d3d147d0debf491a2266d251e4b2</sha1>
+    <format>Emulator Screenshot</format>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1610251476</mtime>
+    <size>8115</size>
+    <md5>38963d44d535c470c3213c1d58e5ab01</md5>
+    <crc32>f64321c8</crc32>
+    <sha1>1d69be237976d72a490e0e520ebb9e27e67adffe</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="good-night-mr.-snoozleberg-episode-1-the-inauguration_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>590a3e6cab0798e3a508e4aaceb2f348</md5>
+  </file>
+  <file name="good-night-mr.-snoozleberg-episode-1-the-inauguration_meta.sqlite" source="original">
+    <mtime>1610251132</mtime>
+    <size>20480</size>
+    <md5>ece1f03cd81e866cd9fe52b4141b4283</md5>
+    <crc32>121c641a</crc32>
+    <sha1>649f5b4bb53dd887b9e5c9007de20b170abca270</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="good-night-mr.-snoozleberg-episode-1-the-inauguration_meta.xml" source="original">
+    <mtime>1610665554</mtime>
+    <size>970</size>
+    <md5>ff3830a65ddba8b7f0f7a098f88220e7</md5>
+    <crc32>123321bf</crc32>
+    <sha1>acad081bf7d0ecdd1988c43214a6a14743d03534</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
